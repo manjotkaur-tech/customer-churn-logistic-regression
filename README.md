@@ -1,4 +1,4 @@
-Telecom Customer Churn Prediction (Logistic Regression)
+# Telecom Customer Churn Prediction (Logistic Regression)
 📌 Overview
 
 This project predicts customer churn for a telecom company using Logistic Regression. The dataset includes demographics, account details, and service usage of 7,000+ customers.
